@@ -1,0 +1,60 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Merle"
+    },
+    {
+      "id": 2,
+      "name": "Maude"
+    }
+  ],
+  "completions": [
+    {
+      "requestId": "1",
+      "plumberId": "1",
+      "date_created": "2023-03-27T18:41:30.532Z",
+      "id": 1
+    },
+    {
+      "requestId": "2",
+      "plumberId": "1",
+      "date_created": "2023-03-29T14:18:57.753Z",
+      "id": 2
+    },
+    {
+      "requestId": "1",
+      "plumberId": "1",
+      "date_created": "2023-03-29T14:26:14.937Z",
+      "id": 3
+    },
+    {
+      "requestId": "1",
+      "plumberId": "2",
+      "date_created": "2023-03-29T14:26:17.953Z",
+      "id": 4
+    },
+    {
+      "requestId": "1",
+      "plumberId": "1",
+      "date_created": "2023-03-29T14:26:23.625Z",
+      "id": 5
+    }
+  ],
+  "requests": [
+    {
+      "description": "leaky Tub",
+      "address": "100 Street Road",
+      "budget": 3200,
+      "neededBy": "03/29/2023",
+      "id": 1
+    },
+    {
+      "description": "TIle Issues",
+      "address": "100 Main Street",
+      "budget": "1325",
+      "neededBy": "2023-06-09",
+      "id": 2
+    }
+  ]
+}

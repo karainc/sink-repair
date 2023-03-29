@@ -1,0 +1,27 @@
+article {
+    line-height: 0.2;
+    margin-left: 1rem;
+    font-size: large;
+}
+
+button {
+    
+    filter: drop-shadow(3px 3px 2px rgb(38, 245, 220));
+    margin: 10px;
+    margin-left: 15px;
+    background-color: rgb(43, 60, 193);
+    width: 30%;
+    height: 40px;
+    font-weight: bold;
+    color: whitesmoke;
+    font-size: larger;
+}
+
+.options {
+    flex-basis: 24%;
+    margin: 0 2rem;
+    border: 1px dashed dodgerblue;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0.25rem 0.25rem 0.5rem rgb(143, 143, 143);
+}
